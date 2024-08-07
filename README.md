@@ -47,6 +47,7 @@ Lateral Approximant: [l] (led)
 
 Repository structure:
 
+```
 Tailored_Swift
 ├── .gitattributes
 ├── LICENSE
@@ -65,7 +66,7 @@ Tailored_Swift
 └── tools/
     ├── audio_analysis.py
     └── phoneme_extractor.py
-
+```
 
 ## Usage
 
@@ -81,6 +82,7 @@ If you want to contribute to the English version, or offer scripts which capture
 
 Please use this file example File Structure for New Language (Spanish) as a guide for contributions:
 
+```
 tailored-swift/
 ├── scripts/
 │   ├── spanish/
@@ -91,7 +93,7 @@ tailored-swift/
 │       ├── spanish/
 │       │   ├── example_1.wav
 │       │   └── example_2.wav
-
+```
 
 You can siumply read the scripts when using Elevenlabs or another platform. 
 
