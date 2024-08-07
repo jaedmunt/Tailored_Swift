@@ -4,6 +4,13 @@ Scripts (the kinds you read) to make (TAILORED) voice cloning fast (SWIFT) and s
 
 Check out elevenlabs: https://elevenlabs.io/
 
+Languages currently supported:
+English
+German
+Spanish
+French
+
+
 ![alt text](taylor.gif)
 
  Want to make your voice clone resemble you with high accuracy - quickly?
