@@ -1,0 +1,26 @@
+# Script for Voice Cloning in Spanish
+
+## Vowels:
+- Mi mamá me mima.
+- Pepe pide peras para Pablo.
+- La luna brilla en el cielo.
+- Quiero comer queso fresco.
+- Un oso come mucho.
+
+## Diphthongs:
+- Hacia el parque.
+- Hoy voy a bailar.
+- Cuidado con el perro.
+- Tierra de libertad.
+
+## Consonants:
+- Zorro juega con jazmín.
+- No hay nadie aquí.
+- El gato gruñe.
+- Paco toca la guitarra.
+- Fuego rápido.
+
+## Combinations:
+- El rápido zorro marrón salta sobre el perro perezoso.
+- La cigüeña trae un regalo para el bebé.
+- Tres tristes tigres tragan trigo en un trigal.

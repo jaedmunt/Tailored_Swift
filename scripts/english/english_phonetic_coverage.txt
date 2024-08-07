@@ -1,0 +1,51 @@
+# Phonetic Coverage
+
+## Vowels:
+- /iː/ - She sees the bee by the sea.
+- /ɪ/ - Pick the thin pin from the tin.
+- /ɛ/ - The bedspread is red.
+- /æ/ - The cat sat on a flat mat.
+- /ɑː/ - The car is parked far.
+- /ɒ/ - The pot is hot.
+- /ɔː/ - The dog is on the log.
+- /ʊ/ - He took a good look.
+- /uː/ - The blue moon is true.
+- /ʌ/ - The cup was full of love.
+- /ɜː/ - The bird chirped early.
+- /ə/ - The bird chirped early.
+
+## Diphthongs:
+- /eɪ/ - They play by the bay every day.
+- /ɔɪ/ - The boy enjoys making noise.
+- /aʊ/ - How now, brown cow.
+- /aɪ/ - She tries to buy the bright kite.
+- /oʊ/ - The choice was quite clear.
+- /aʊ/ - The loud crowd shouted out.
+
+## Consonants:
+- /b/ - Bob brought a big box.
+- /d/ - Do dogs dig dens?
+- /g/ - Gary’s green grapes are gone.
+- /p/ - Peter Piper picked a peck of pickled peppers.
+- /t/ - Talking tigers take turns.
+- /k/ - Cool cats can climb cliffs.
+- /f/ - Fred’s friend found fresh fruit.
+- /v/ - Victor views various vehicles.
+- /θ/ - The thick thorn pricked the thumb.
+- /ð/ - They bathe with warm water.
+- /s/ - She sells sea shells by the seashore.
+- /z/ - Zebra zips through the zoo.
+- /ʃ/ - Sheila shot the sheriff.
+- /ʒ/ - Treasure is usually measured in pleasure.
+- /h/ - How happy is he who has health.
+- /dʒ/ - Jack’s jokes just jolt Janet.
+- /m/ - My mom makes marvelous meals.
+- /n/ - Nine nannies need new nests.
+- /ŋ/ - King Kong sings long songs.
+
+## Combinations:
+- The curious red fox jumped over the lazy brown dog. (/k, j, r, s, f, ʒ, ɒ, z, b, ɜː, l, d, aʊ, ɪ, g/)
+- Quickly pack my box with five dozen liquor jugs. (/kw, ɪ, k, l, iː, p, æ, m, b, ɒ, k, s, w, aɪ, θ, f, aɪ, v, d, ʌ, z, ə, n, l, ɪ, k, ɚ, j, ʌ, g, z/)
+- A wizard’s job is to vex chumps quickly in fog. (/eɪ, w, ɪ, z, ɑː, d, z, dʒ, ɒ, b, ɪ, v, ɛ, k, s, tʃ, ʌ, m, p, k, w, ɪ, k, l, iː, ɪ, n, f, ɒ, g/)
+- Bright vixens jump; dozy fowl quack. (/b, r, aɪ, t, v, ɪ, k, s, n, z, dʒ, ʌ, m, p, d, oʊ, z, iː, f, aʊ, l, k, w, æ, k/)
+- Jinxed wizards pluck ivy from the big quilt. (/dʒ, ɪ, ŋ, k, s, t, w, ɪ, z, ɑː, d, z, p, l, ʌ, k, aɪ, v, iː, f, r, ɒ, m, b, ɪ, g, k, w, ɪ, l, t/)

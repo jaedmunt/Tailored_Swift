@@ -1,0 +1,5 @@
+librosa==0.8.1
+matplotlib==3.4.2
+numpy==1.21.1
+pydub==0.24.1
+praat-parselmouth==0.4.0

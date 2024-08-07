@@ -1,0 +1,24 @@
+# Phonetic Coverage for French
+
+## Vowels:
+- /a/ - La lune brille dans le ciel.
+- /ɛ/ - Elle aime les fleurs.
+- /e/ - Il a acheté une nouvelle voiture.
+- /u/ - Nous mangeons du pain.
+
+## Diphthongs:
+- /jɛ/ - Pierre a un chien.
+- /ɛt/ - La fête était très belle.
+- /wa/ - Joyeux anniversaire à toi.
+- /ø/ - Aujourd’hui, il fait beau.
+
+## Consonants:
+- /d/ - Deux oiseaux chantent.
+- /ɡ/ - Les garçons jouent au football.
+- /ʃ/ - Le chat dort sur le canapé.
+- /f/ - Fanny fait de la musique.
+
+## Combinations:
+- /l, ə, v, i, f, ʁ, ə, n, aʁ, b, ʁ, ɛ̃, s, o, t, p, a, ʁ, d, ə, s, y, l, ə, ʃ, j, ɛ̃, p, a, ʁ, ə, s, ø/ - Le vif renard brun saute par-dessus le chien paresseux.
+- /ɛ̃, w, a, ɡ, ɔ̃, b, l, ø, ɛ, t, a, ʁ, i, v, e, a, l, a, ɡ, aʁ/ - Un wagon bleu est arrivé à la gare.
+- /k, l, o, e, ʃ, ɛʁ, ʃ, d, e, k, o, k, i, j, a, ʒ, s, y, ʁ, l, a, p, l, a, ʒ/ - Chloé cherche des coquillages sur la plage.

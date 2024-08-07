@@ -1,0 +1,25 @@
+# Script for Voice Cloning in German
+
+## Vowels:
+- Die Biene fliegt.
+- Er isst Äpfel.
+- Das Haus ist groß.
+- Unter der Brücke.
+
+## Diphthongs:
+- Mein Freund heißt Klaus.
+- Heute ist ein schöner Tag.
+- Sie kauft ein neues Auto.
+- Die Leute lieben Freiheit.
+
+## Consonants:
+- Zwei Zebras sind im Zoo.
+- Der Junge spielt Fußball.
+- Das Wasser ist kalt.
+- Ein Vogel singt laut.
+- Die Katze klettert.
+
+## Combinations:
+- Der flinke braune Fuchs springt über den faulen Hund.
+- Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich.
+- Blaukraut bleibt Blaukraut und Brautkleid bleibt Brautkleid.

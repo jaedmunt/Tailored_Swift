@@ -1,0 +1,25 @@
+# Phonetic Coverage for German
+
+## Vowels:
+- /iː/ - Die Biene fliegt.
+- /ɛ/ - Er isst Äpfel.
+- /aʊ/ - Das Haus ist groß.
+- /ʊ/ - Unter der Brücke.
+
+## Diphthongs:
+- /aɪ/ - Mein Freund heißt Klaus.
+- /ɔʏ/ - Heute ist ein schöner Tag.
+- /aʊ/ - Sie kauft ein neues Auto.
+- /ɔɪ/ - Die Leute lieben Freiheit.
+
+## Consonants:
+- /ts/ - Zwei Zebras sind im Zoo.
+- /j/ - Der Junge spielt Fußball.
+- /v/ - Das Wasser ist kalt.
+- /ŋ/ - Ein Vogel singt laut.
+- /k/ - Die Katze klettert.
+
+## Combinations:
+- /f, l, ɪ, ŋ, k, b, r, aʊ, n, f, ʊ, k, s, ʃ, p, r, ɪ, ŋ, t, yː, b, r, d, eː, n, f, aʊ, l, n, h, ʊ, n, t/ - Der flinke braune Fuchs springt über den faulen Hund.
+- /ts, v, ɛ, l, f, b, ɔ, k, s, k, ɛ, m, p, f, ɐ, j, a, ɡ, n, v, ɪ, k, t, oː, r, k, v, ɛ, r, yː, b, r, d, ɛ, n, ɡ, r, oː, s, ə, n, z, yː, l, t, ɐ, d, aɪ, ç/ - Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich.
+- /b, l, aʊ, k, r, aʊ, t, b, l, aɪ, p, t, b, l, aʊ, k, r, aʊ, t, ʊ, n, t, b, r, aʊ, t, k, l, aɪ, d, b, l, aɪ, p, t, b, r, aʊ, t, k, l, aɪ, d/ - Blaukraut bleibt Blaukraut und Brautkleid bleibt Brautkleid.

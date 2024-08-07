@@ -1,0 +1,26 @@
+# Phonetic Coverage for Spanish
+
+## Vowels:
+- /i/ - Mi mamá me mima.
+- /e/ - Pepe pide peras para Pablo.
+- /a/ - La luna brilla en el cielo.
+- /o/ - Quiero comer queso fresco.
+- /u/ - Un oso come mucho.
+
+## Diphthongs:
+- /ia/ - Hacia el parque.
+- /oy/ - Hoy voy a bailar.
+- /ue/ - Cuidado con el perro.
+- /ie/ - Tierra de libertad.
+
+## Consonants:
+- /θ/ - Zorro juega con jazmín.
+- /x/ - No hay nadie aquí.
+- /ɣ/ - El gato gruñe.
+- /tʃ/ - Paco toca la guitarra.
+- /f/ - Fuego rápido.
+
+## Combinations:
+- /r, ð, m, ɾ, s, ʎ/ - El rápido zorro marrón salta sobre el perro perezoso.
+- /s, ɡ, j/ - La cigüeña trae un regalo para el bebé.
+- /t, ɾ, ɣ/ - Tres tristes tigres tragan trigo en un trigal.

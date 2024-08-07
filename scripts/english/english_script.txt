@@ -1,0 +1,49 @@
+# Script for Voice Cloning
+
+## Vowels:
+- She sees the bee by the sea.
+- Pick the thin pin from the tin.
+- The bedspread is red.
+- The cat sat on a flat mat.
+- The car is parked far.
+- The pot is hot.
+- He took a good look.
+- The blue moon is true.
+- The cup was full of love.
+- The bird chirped early.
+
+## Diphthongs:
+- They play by the bay every day.
+- The boy enjoys making noise.
+- How now, brown cow.
+- She tries to buy the bright kite.
+- The choice was quite clear.
+- The loud crowd shouted out.
+
+## Consonants:
+- Bob brought a big box.
+- Do dogs dig dens?
+- Gary’s green grapes are gone.
+- Peter Piper picked a peck of pickled peppers.
+- Talking tigers take turns.
+- Cool cats can climb cliffs.
+- Fred’s friend found fresh fruit.
+- Victor views various vehicles.
+- The thick thorn pricked the thumb.
+- They bathe with warm water.
+- She sells sea shells by the seashore.
+- Zebra zips through the zoo.
+- Sheila shot the sheriff.
+- Treasure is usually measured in pleasure.
+- How happy is he who has health.
+- Jack’s jokes just jolt Janet.
+- My mom makes marvelous meals.
+- Nine nannies need new nests.
+- King Kong sings long songs.
+
+## Combinations:
+- The curious red fox jumped over the lazy brown dog.
+- Quickly pack my box with five dozen liquor jugs.
+- A wizard’s job is to vex chumps quickly in fog.
+- Bright vixens jump; dozy fowl quack.
+- Jinxed wizards pluck ivy from the big quilt.

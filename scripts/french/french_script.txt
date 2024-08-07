@@ -1,0 +1,24 @@
+# Script for Voice Cloning in French
+
+## Vowels:
+- La lune brille dans le ciel.
+- Elle aime les fleurs.
+- Il a acheté une nouvelle voiture.
+- Nous mangeons du pain.
+
+## Diphthongs:
+- Pierre a un chien.
+- La fête était très belle.
+- Joyeux anniversaire à toi.
+- Aujourd’hui, il fait beau.
+
+## Consonants:
+- Deux oiseaux chantent.
+- Les garçons jouent au football.
+- Le chat dort sur le canapé.
+- Fanny fait de la musique.
+
+## Combinations:
+- Le vif renard brun saute par-dessus le chien paresseux.
+- Un wagon bleu est arrivé à la gare.
+- Chloé cherche des coquillages sur la plage.
