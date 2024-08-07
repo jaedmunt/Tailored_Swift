@@ -1,0 +1,2 @@
+# Tailored_Swift
+ Want to make your voice clone resemble you with high accuracy - quickly? Welcome to the Voice Cloning Script Resource repository! This collection is designed to provide a comprehensive set of phonetically balanced scripts (the kind you read) aimed at covering the full range of sounds necessary for high-quality voice cloning, for non-professional users. Make the most of your time and only speak the relevant sounds needed to capture your voice. 
