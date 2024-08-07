@@ -21,6 +21,8 @@ French
 
 This repository contains a script designed to cover the full range of phonetic sounds in the shortest possible audio sample, intended for use with voice cloning services such as ElevenLabs.
 
+find the scripts (the kind you read) in /scripts
+
 # Why? (Problem Statement)
 
 Platforms like elevenlabs do offer scripts for you to read, but only on professional tiers.
